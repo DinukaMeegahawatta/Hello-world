@@ -1,2 +1,3 @@
 # Hello-world
-Hello Jit hub 
+Hello Jit hub
+iam Dinuka Meegahawatta
